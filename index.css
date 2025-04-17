@@ -14,13 +14,12 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-image-1 {
-    margin-right: 302px;
+    margin-top: 23px;
+    margin-right: auto;
   }
-}
 
-@media (max-width: 767px) {
-  .u-section-1 .u-image-1 {
-    margin-right: 122px;
+  .u-section-1 .u-btn-1 {
+    margin-top: 40px;
   }
 }
 
@@ -32,6 +31,5 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 244px;
-    margin-right: 0;
   }
 }
